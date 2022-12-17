@@ -1,4 +1,4 @@
-	this repo is a detailed explaination of how an adverse with a physical access to a machine can fully compromise the machine without the need of a password 
+this repo is a detailed explaination of how an adverse with a physical access to a machine can fully compromise the machine without the need of a password 
 
 # part 1 - Windows
 
